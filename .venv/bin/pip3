@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/BelierJavier/Desktop/ML Research/CSC390-ML-Research/.venv/bin/python3" "$0" "$@"
-' '''
+#!/Users/belierjavier/Desktop/Research/CSC390-ML-Research/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
