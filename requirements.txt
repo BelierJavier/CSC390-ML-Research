@@ -1,4 +1,6 @@
+keras==2.13.1
 nltk==3.9.1
 pandas==2.2.2
+tensorflow==2.13.0
 torch==2.5.1
 transformers==4.46.1
